@@ -1,5 +1,5 @@
 import Image from "next/image"
-import { CiCircleCheck } from "react-icons/ci";
+
 const about = () => {
       return(
           <div>
