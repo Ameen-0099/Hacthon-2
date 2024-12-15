@@ -19,7 +19,7 @@ const Popular = () => {
 
         <div className="sec-playstation relative bg-purple-300  w-[290px] h-[243px] ">
           <Image
-            src="/Img(4).png "
+            src="/Img(4).png"
             alt=""
             width={290}
             height={200}
@@ -27,7 +27,7 @@ const Popular = () => {
           />
           <div className="sec-playstation relative bg-purple-300  w-[290px] h-[243px] mt-3">
             <Image
-              src="/Image (1).png "
+              src="/Image (1).png"
               alt=""
               width={290}
               height={200}
@@ -38,7 +38,7 @@ const Popular = () => {
         {/* add */}
         <div className="sec-playstation relative bg-purple-300  w-[290px] h-[243px] ">
           <Image
-            src="/Image.png "
+            src="/Image.png"
             alt=""
             width={290}
             height={200}
@@ -46,7 +46,7 @@ const Popular = () => {
           />
           <div className="sec-playstation relative bg-purple-300  w-[290px] h-[243px] mt-3">
             <Image
-              src="/Image (6).png "
+              src="/Image (6).png"
               alt=""
               width={290}
               height={200}
