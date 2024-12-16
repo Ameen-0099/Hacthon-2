@@ -53,7 +53,7 @@ const Navbar = () => {
           <button id="stickyButton" className="sticky-button"></button>
           <Link
             href="/"
-            className="sm:text-green-300 md:text-purple-400 lg:text-red-500 hover:text-[#007580]"
+            className=" hover:text-[#007580]"
           >
             Home
           </Link>
@@ -71,7 +71,7 @@ const Navbar = () => {
           </Link>
           <Link
             href="/contactus"
-            className="text-base invisible sm:visible lg:visible lg:text-lg cursor-pointer  sm:ml-20 md:ml-44 hover:text-[#007580]"
+            className="text-base invisible sm:visible lg:visible lg:text-lg cursor-pointer  sm:ml-20 md:ml-44 lg:ml-[550px] hover:text-[#007580]"
           >
             Contact: (808)555-0111
           </Link>
