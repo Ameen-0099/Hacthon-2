@@ -1,4 +1,6 @@
 import { FaLocationDot } from "react-icons/fa6";
+import { FaPhone } from "react-icons/fa6";
+import { IoTimerOutline } from "react-icons/io5";
 import Image from "next/image";
 const contact = () => {
   return (
@@ -43,7 +45,7 @@ const contact = () => {
       {/* add  phone */}
       <div className="address p-2 lg:p-0 lg:ml-[125px] mt-20 ">
         <div className="icon  lg:p-0 flex flex-col lg:flex-row">
-          <FaLocationDot />
+          <FaPhone/>
           <h1 className="font-bold ml-2">Phone</h1>
           <h1 className=" ml-[200px] invisible lg:visible">Email Address</h1>
         </div>
@@ -64,7 +66,7 @@ const contact = () => {
       {/* add three */}
       <div className="address p-2 lg:p-0  lg:ml-32 mt-20 ">
         <div className="icon flex flex-col lg:flex-row">
-          <FaLocationDot />
+         <IoTimerOutline size={24}/>
           <h1 className="font-bold ml-2">Working Time</h1>
           <h1 className="ml-[140px] invisible lg:visible">Subject</h1>
         </div>
