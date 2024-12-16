@@ -102,21 +102,21 @@ const contact = () => {
       <div className="high w-full  mt-10 md:ml-0 lg:h-[220px]  bg-[#f4f4f4]">
         <div className="content flex flex-col md:flex-row lg:flex-row p-10 md:gap-5 justify-around ">
           <Image
-            src="/frame 5.png"
-            alt=""
-            width={280}
-            height={70}
-            className="mt-6 "
-          />
-          <Image
-            src="/frame 19.png"
+            src="/frame 5.png "
             alt=""
             width={280}
             height={70}
             className="mt-6"
           />
           <Image
-            src="/frame 4.png"
+            src="/frame 19.png "
+            alt=""
+            width={280}
+            height={70}
+            className="mt-6"
+          />
+          <Image
+            src="/frame 4.png "
             alt=""
             width={280}
             height={70}
